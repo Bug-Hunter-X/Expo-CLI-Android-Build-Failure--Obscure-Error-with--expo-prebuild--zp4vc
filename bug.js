@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI to build an Android app and involves the `expo prebuild` command.  The error message itself isn't very descriptive, often simply mentioning a failure during the build process without specifying the root cause.  The issue is subtle and might be related to certain configurations or dependencies within your project.
